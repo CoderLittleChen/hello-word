@@ -1,0 +1,12 @@
+--TRUNCATE TABLE PDMUserInfo;
+--INSERT INTO dbo.PDMUserInfo
+--(
+--    UserInfoID,
+--    RegionAccount,
+--    NotesId,
+--    UserName,
+--    UserStatus
+--)
+--SELECT NEWID(),u.user_id,u.h3jobcode,u.user_name,u.h3cuserstatus
+--  FROM [PMD_HRCP]..[INFODBA].[VV_USR] u
+--  where h3cuserstatus='valid_user' AND LEN(h3jobcode)!=5

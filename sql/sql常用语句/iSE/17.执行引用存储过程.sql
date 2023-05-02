@@ -1,0 +1,1 @@
+exec P_SolCopyRefEntry @userId=N'00428',@currentBlId=N'11',@currentTabId=N'42',@refBlId=N'23',@refTabId=78,@colId=N'79,80',@proCode=N'PD022244'

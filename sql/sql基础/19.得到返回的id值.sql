@@ -1,0 +1,3 @@
+--返回本次插入结果集中最后一个id标识
+--select ident_current('book')
+--select  @@identity

@@ -1,0 +1,1 @@
+alter table  RecruitReqApply  add      RecruitReqApplyAttach    nvarchar(2000)  null;

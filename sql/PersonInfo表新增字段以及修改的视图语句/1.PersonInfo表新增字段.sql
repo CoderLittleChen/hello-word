@@ -1,0 +1,10 @@
+--PersonInfo±íÐÂÔö×Ö¶Î
+--alter  table  PersonInfo  add  DomainAccount   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  PingYing   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  EnglishName   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  RoomNo   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  TelShortNum   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  Email   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  Fax   nvarchar(150)  default  '';
+--alter  table  PersonInfo  add  SyncTime   datetime  default  getdate();
+--alter  table  PersonInfo  add  TelLongNum  nvarchar(150) default  '';

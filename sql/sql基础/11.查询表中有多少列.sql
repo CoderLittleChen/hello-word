@@ -1,0 +1,1 @@
+select  COUNT(1)  from   syscolumns   where  id=OBJECT_ID('ProjectPersonInfo')
